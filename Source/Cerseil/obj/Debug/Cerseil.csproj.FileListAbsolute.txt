@@ -1,0 +1,10 @@
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\Cerseil.dll
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\Cerseil.pdb
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\obj\Debug\Cerseil.dll
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\obj\Debug\Cerseil.pdb
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\EntityFramework.dll
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\EntityFramework.SqlServer.dll
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\EntityFramework.xml
+E:\NicksysTFS2\Cerseil\Core\Main\Source\CoreSolution\Cerseil\bin\Debug\EntityFramework.SqlServer.xml
+E:\NicksysTFS2\Cerseil\Core\Main\Source\Bin\Cerseil.dll
+E:\NicksysTFS2\Cerseil\Core\Main\Source\Bin\Cerseil.pdb
